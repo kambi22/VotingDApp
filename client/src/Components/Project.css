@@ -1,0 +1,80 @@
+.ColoredLight {
+    background-color: #5ba5f5;
+    color: rgb(252, 247, 232);
+ }
+ 
+ .ColoredDark {
+    background-color: #1f1f20 !important;
+    color: rgb(252, 247, 232);
+ 
+ }
+ 
+ .nav-link.ColoredLight {
+    background-color: #5ba5f5;
+    color: rgb(252, 247, 232);
+ 
+    margin-right: 6px;
+ }
+ 
+ .nav-link.ColoredDark {
+    background-color: #1f1f20 !important;
+    color: rgb(252, 247, 232);
+ }
+ 
+ .nav-dropdown.ColoredLight {
+    background-color: #5ba5f5;
+    color: rgb(252, 247, 232);
+ }
+ 
+ .nav-dropdown.ColoredDark {
+    background-color: #1f1f20 !important;
+    color: rgb(252, 247, 232);
+ }
+ 
+ .nav-link.ColoredLight:hover {
+    color: rgb(252, 247, 232);
+    /* Ensure color remains white */
+ }
+ 
+ .nav-link.ColoredDark:hover {
+    color: rgb(252, 247, 232);
+    /* Ensure color remains white */
+ }
+ 
+ .nav-link.ColoredLight:focus {
+    color: rgb(241, 238, 228)
+       /* Ensure color remains white */
+ }
+ 
+ .nav-link.ColoredDark:focus {
+    color: rgb(203, 200, 191);
+    /* Ensure color remains white */
+ }
+ 
+ 
+ .ColoredLight .MuiIconButton-root {
+    color: rgb(252, 247, 232);
+ }
+ 
+ .ColoredDark .MuiIconButton-root {
+    color: rgb(252, 247, 232);
+ }
+
+ .MySidebar {
+    width: 300px;
+    position: fixed;
+ 
+ }
+
+ .Footer {
+    position: relative;
+    width: 100%;
+    bottom: 0px;
+    font-size: 5x;
+    margin-bottom: 0px;
+    margin-top: 100px;
+ }
+ #ButtonColor{
+   background: #5ba5f5;
+   color: white;
+}
